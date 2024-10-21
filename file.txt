@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 print("Initial commit sur la branche main ");
 =======
 print("modification au niveau de feature 1");
 >>>>>>> feature1
+=======
+print("Modifiction au niveau de feature 2");
+>>>>>>> feature2
